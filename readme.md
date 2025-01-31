@@ -1,6 +1,7 @@
 # Taker Bot Auto Activate Daily Mining
 
-![banner](image.png)
+![image](https://github.com/user-attachments/assets/5bbfadde-8247-42a4-8e4b-0a27ffb1d91f)
+
 
 ## How ?
 
